@@ -1,0 +1,5 @@
+Install Dependancies run ./install_tools.sh 
+
+Deploy infrastrucuture run ./deploy_infra.sh
+
+Teardown infrastrucuture run ./teardownl_infra.sh
